@@ -1,0 +1,23 @@
+{
+  "name": "express_app_manager",
+  "version": "1.0.0",
+  "description": "Express App Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawankr101/Express_app_manager.git"
+  },
+  "author": "Akshay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawankr101/Express_app_manager/issues"
+  },
+  "homepage": "https://github.com/pawankr101/Express_app_manager#readme",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "inquirer": "^7.0.0"
+  }
+}
